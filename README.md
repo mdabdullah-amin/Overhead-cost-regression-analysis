@@ -13,7 +13,7 @@
 
 This case study investigates what drives overhead costs at Bendrix Company, an automotive parts manufacturer. The factory manager wanted to better understand the behaviour of monthly overhead — which includes supervision, indirect labour, supplies, payroll taxes, overtime, depreciation, utilities, and maintenance — and determine whether production activity could statistically explain the variation in those costs.
 
-Using a sample of 8 months of operational data, this analysis quantifies the relationship between overhead and two candidate drivers — **Machine Hours** and **Production Runs** — through scatterplot visualisation, two simple linear regressions, and a final multiple regression model that combines both predictors.
+Using a sample of 8 months of operational data, this analysis quantifies the relationship between overhead and two candidate drivers **Machine Hours** and **Production Runs** through scatterplot visualisation, two simple linear regressions, and a final multiple regression model that combines both predictors.
 
 ---
 
@@ -149,7 +149,3 @@ Multiple regression provides a far more convincing explanation of overhead cost 
 | `README.md` | This report |
 | `Bendrix Data.xlsx` | Raw data, scatterplots, and three regression outputs |
 | `Bendrix_Analysis_Report.pdf` | Visual report with Excel screenshots (data, scatterplots, and regression results) |
-
----
-
-*This analysis was completed as part of MDA511 — Mathematical and Statistical Methods. Case inspired by Albright & Winston, "Business Analytics" (7th ed., Cengage Learning).*
